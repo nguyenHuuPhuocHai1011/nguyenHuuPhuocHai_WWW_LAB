@@ -1,8 +1,8 @@
 # nguyenHuuPhuocHai-WWW-LAB05
 
 
-![list](../list-lab05.png)
+![list](https://ibb.co/M75Lf0X)
 
 
-![candidates](../candidates-lab05.png)
+![candidates](https://ibb.co/QcrPpXT)
 
